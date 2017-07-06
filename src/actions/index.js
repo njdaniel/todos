@@ -1,5 +1,6 @@
 // Using Object Expression to change fat arrow functions
 // to be surrounded with () instead of using 'return {}'
+// Can only do this when there is just a return statement for a function
 
 // EX
 // export const addTodo = (text) => {
